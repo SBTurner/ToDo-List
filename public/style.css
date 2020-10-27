@@ -1,0 +1,18 @@
+.done{
+    text-decoration: line-through;
+}
+
+li{
+    list-style-type: none;
+}
+.delete{
+    background-color: #ffe6e6;
+}
+.highlight{
+    color: darkred;
+    font-weight: bold;
+
+}
+.important{
+    background-color:  #e6f7ff;
+}
